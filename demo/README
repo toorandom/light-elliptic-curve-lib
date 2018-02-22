@@ -1,0 +1,3 @@
+Compile.
+
+gcc -llecc elgamal_ecc.c -o elgamal_ecc

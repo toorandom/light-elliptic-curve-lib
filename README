@@ -1,0 +1,5 @@
+This library includes the routines to perform elliptic curve arithmetic using Zp as scalar field
+it uses liblightmp included in this tarfile and is part of the library libacrypt that implements
+the aritmetic in algebraic surfaces.
+
+Note: This is a beta version , it only compiles in 64 bit machines
